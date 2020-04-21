@@ -1,0 +1,14 @@
+.Header {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    position: fixed;
+    height: 60px;
+    width: 100%;
+    top: 0px;
+    resize: both;
+}
+
+.Header h1 {
+    margin: 10px;
+}

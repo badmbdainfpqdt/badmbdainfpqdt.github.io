@@ -1,0 +1,30 @@
+.Toolbar {
+    background-color: blue;
+    position: fixed;
+    top: 30px;
+    height: 30px;
+    width: 100%;
+}
+
+.Main {
+    background-color: darkred;
+    position: fixed;
+    top: 60px;
+    bottom: 100px;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+.Footer {
+    background-color: brown;
+    text-align: center;
+    position: fixed;
+    height: auto;
+    resize: both;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 30px;
+    color: white;
+}
